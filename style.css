@@ -110,12 +110,12 @@
 }
 
 .allBox {
-    width: 60%;
+    width: 40%;
     margin: 0px auto;
 }
 
 .allBox .add {
-    width: 100%;
+    width: 620px;
     height: 35px;
     margin: 10px auto;
     border-radius:5px;  
